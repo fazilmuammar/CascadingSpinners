@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CascadingSpinners</string>
+    <string-array name="mobile_arrays">
+        <item>Apple</item>
+        <item>Samsung</item>
+        <item>Xiaomi</item>
+    </string-array>
+</resources>
